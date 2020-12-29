@@ -1,0 +1,13 @@
+body{
+    background: #87e0fd;
+    background: -moz-linear-gradient(-45deg,  #87e0fd 0%, #53cbf1 53%, #05abe0 100%);
+    background: -webkit-linear-gradient(-45deg,  #87e0fd 0%,#53cbf1 53%,#05abe0 100%);
+    background: linear-gradient(135deg,  #87e0fd 0%,#53cbf1 53%,#05abe0 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#87e0fd', endColorstr='#05abe0',GradientType=1 );
+    text-align: center;
+}
+p{
+    font-family: 'Raleway';
+    font-size: 20px;
+}
+
